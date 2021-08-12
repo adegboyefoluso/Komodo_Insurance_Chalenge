@@ -1,0 +1,14 @@
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\CalculatorChallenge.dll
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\CalculatorChallenge.pdb
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\obj\Debug\CalculatorChallenge.csproj.AssemblyReference.cache
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\obj\Debug\CalculatorChallenge.csproj.CoreCompileInputs.cache
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\obj\Debug\CalculatorChallenge.csproj.CopyComplete
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\obj\Debug\CalculatorChallenge.dll
+C:\ElevenfiftyAug100SD\Challenges\CalculatorChallenge\obj\Debug\CalculatorChallenge.pdb

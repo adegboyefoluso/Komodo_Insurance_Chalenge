@@ -1,0 +1,6 @@
+C:\ElevenfiftyAug100SD\Challenges\InsuranceRepo.KomodoRepo\bin\Debug\InsuranceRepo.KomodoRepo.dll
+C:\ElevenfiftyAug100SD\Challenges\InsuranceRepo.KomodoRepo\bin\Debug\InsuranceRepo.KomodoRepo.pdb
+C:\ElevenfiftyAug100SD\Challenges\InsuranceRepo.KomodoRepo\obj\Debug\InsuranceRepo.KomodoRepo.csproj.CoreCompileInputs.cache
+C:\ElevenfiftyAug100SD\Challenges\InsuranceRepo.KomodoRepo\obj\Debug\InsuranceRepo.KomodoRepo.dll
+C:\ElevenfiftyAug100SD\Challenges\InsuranceRepo.KomodoRepo\obj\Debug\InsuranceRepo.KomodoRepo.pdb
+C:\ElevenfiftyAug100SD\Challenges\InsuranceRepo.KomodoRepo\obj\Debug\InsuranceRepo.KomodoRepo.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InsuranceRepo_KomodoConsole/1.0.0": {
+        "dependencies": {
+          "InsuranceRepo.KomodoRepo": "1.0.0"
+        },
+        "runtime": {
+          "InsuranceRepo_KomodoConsole.dll": {}
+        }
+      },
+      "InsuranceRepo.KomodoRepo/1.0.0": {
+        "runtime": {
+          "InsuranceRepo.KomodoRepo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InsuranceRepo_KomodoConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InsuranceRepo.KomodoRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
